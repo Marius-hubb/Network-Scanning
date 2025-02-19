@@ -4,11 +4,7 @@
 
 <h2>Description</h2>
 
-This lab explores network scanning and traffic analysis using tools in both Linux and Windows. We start by inspecting network interfaces and gateway settings with commands like ip a, ifconfig/ipconfig, and ip route/route. We'll then discover live hosts on the local network through ARP-based scanning with tools such as arp-scan and netdiscover — demonstrating both active and passive modes.
-
-Next, we explore network path analysis with traceroute (and its variants like mtr, pathping, or tracert), and then transition into in-depth host and port scanning using Nmap. We will cover various scanning techniques, including ARP scans (nmap -sn), TCP scans (both full connect and stealth SYN scans), UDP scans, and methods to save and enhance scan outputs with verbose and XMAS scans.
-
-Finally, we capture and analyze network traffic in real time using Wireshark, applying filters to gain deeper insights into the data.<br />
+ This lab explores network scanning, fingerprinting, and traffic analysis using tools in both Linux and Windows. We begin by inspecting network interfaces and routing settings, followed by discovering live hosts through active and passive scanning techniques. Next, we analyze network paths, perform detailed host and port scanning using various Nmap techniques, and examine service versions and stealth scanning methods. Finally, we monitor network traffic in real time, applying filters to gain deeper insights into data transmission and security. <br />
 <br />
 
 <h2>Lab walk-through:</h2>
