@@ -1,4 +1,4 @@
-<h1>Network Recon: Uncovering Hosts and Monitoring Traffic</h1>
+<h1>Network Scanning & Fingerprinting: Uncovering Hosts and Monitoring Traffic</h1>
 
  ## [Video Demonstration (12:31)](https://drive.google.com/file/d/1bmvQORkCRQJLOKtMBQEgJbIlThoKNk2l/view?usp=sharing)
 
