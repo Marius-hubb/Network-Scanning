@@ -13,53 +13,38 @@ Finally, we capture and analyze network traffic in real time using Wireshark, ap
 
 <h2>Lab walk-through:</h2>
 
-<p align="center">Adding the webserver 10.10.1.16 machine as Wazuh agent
+<p align="center">Network Scanning
 <br/>
-<img src="https://i.imgur.com/55MK1xc.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/D8iaHvH.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
-<p align="center">Extract the Agent key
+<p align="center">
 <br/>
-<img src="https://i.imgur.com/NvH0Kal.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5Igc8zJ.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<p align="center">creating key.txt file that will contain the Agent key. 
+<p align="center"> 
 <br/>
-<img src="https://i.imgur.com/GMSAjNg.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JMLc1Ju.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<p align="center">Copying the key.txt file into the shared folder on 10.10.1.16
+<p align="center">
 <br/>
-<img src="https://i.imgur.com/bsYP7lI.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Kzk7SJC.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<p align="center">Configuring the firewall to communicate with the agent
+<p align="center">
 <br/>
-<img src="https://i.imgur.com/TSrTMic.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Dc2j6gg.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
-<p align="center">Installing Wazuh agent on WebServer machine
+<p align="center">
 <br/>
-<img src="https://i.imgur.com/iRfQUMu.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/rHWY0PS.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<p align="center">Restarting Wazuh
+<p align="center">
 <br/>
-<img src="https://i.imgur.com/Oo8DdvY.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<p align="center">Verifying that the agent is active
-<br/>
-<img src="https://i.imgur.com/yMh3Hyy.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<p align="center">Performing brute-forece attack via RDP on WebServer 10.10.1.16 using hydra
-<br/>
-<img src="https://i.imgur.com/jO3iBMC.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<p align="center">We can observe the alert for Dst IP 10.10.1.16.
-<br/>
-<img src="https://i.imgur.com/f0e8aHo.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4vy91SK.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
