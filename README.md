@@ -1,6 +1,6 @@
 <h1>Network Scanning & Fingerprinting: Uncovering Hosts and Monitoring Traffic</h1>
 
- ## [Video Demonstration (12:31)](https://drive.google.com/file/d/1bmvQORkCRQJLOKtMBQEgJbIlThoKNk2l/view?usp=sharing)
+ ## [Video Demonstration (38:41)](https://drive.google.com/file/d/1ozfcxE80ODhxWV1-2v5EPMv1_uyHX-eD/view?usp=drive_link)
 
 <h2>Description</h2>
 
