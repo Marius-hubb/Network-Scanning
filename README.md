@@ -11,41 +11,41 @@
 
 <p align="center">Network Scanning
 <br/>
-<img src="https://i.imgur.com/D8iaHvH.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/D8iaHvH.png" height="50%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <p align="center">
 <br/>
-<img src="https://i.imgur.com/5Igc8zJ.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5Igc8zJ.png" height="50%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <p align="center"> 
 <br/>
-<img src="https://i.imgur.com/JMLc1Ju.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JMLc1Ju.png" height="50%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
  <p align="center">
 <br/>
-<img src="https://i.imgur.com/2TIhyIY.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2TIhyIY.png" height="50%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <p align="center">
 <br/>
-<img src="https://i.imgur.com/Kzk7SJC.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Kzk7SJC.png" height="50%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <p align="center">
 <br/>
-<img src="https://i.imgur.com/Dc2j6gg.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Dc2j6gg.png" height="50%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
 <p align="center">
 <br/>
-<img src="https://i.imgur.com/rHWY0PS.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/rHWY0PS.png" height="50%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <p align="center">
 <br/>
-<img src="https://i.imgur.com/4vy91SK.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4vy91SK.png" height="50%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
